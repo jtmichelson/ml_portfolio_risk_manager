@@ -1,0 +1,7 @@
+src/__pycache__/*
+src/data/__pycache__/*
+src/model/__pycache__/*
+src/reporting/__pycache__/*
+venv/*
+src/config/API_KEY.json
+
